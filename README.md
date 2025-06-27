@@ -75,3 +75,15 @@ o	Chatbot NLP simulation
 o	Task management
 o	Quiz scoring
 o	Activity logging
+
+📚 References (Harvard Style)
+Anderson, R., 2020. Security Engineering: A Guide to Building Dependable Distributed Systems. 3rd ed. Hoboken: Wiley.
+
+Hadnagy, C., 2018. Social Engineering: The Science of Human Hacking. 2nd ed. Indianapolis: Wiley.
+
+National Institute of Standards and Technology (NIST), 2023. Cybersecurity Framework. [online] Available at: https://www.nist.gov/cyberframework [Accessed 25 Jun 2025].
+
+Microsoft, 2024. Windows Forms Overview. [online] Microsoft Docs. Available at: https://learn.microsoft.com/en-us/dotnet/desktop/winforms/ [Accessed 25 Jun 2025].
+
+OWASP Foundation, 2024. OWASP Top 10: The Ten Most Critical Web Application Security Risks. [online] Available at: https://owasp.org/www-project-top-ten/ [Accessed 25 Jun 2025].
+
